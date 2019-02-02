@@ -1,3 +1,5 @@
+http://victorldomingues.net/cicd-angular-7-com-azure-devops-azure-storage-accounts-e-static-website/
+
 # Staticwebsite
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.3.
